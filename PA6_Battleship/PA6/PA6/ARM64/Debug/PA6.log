@@ -1,0 +1,13 @@
+﻿  Battleship.c
+C:\Users\arantxasierra\source\repos\PA6\PA6\Battleship.c(318,9): warning C4477: 'scanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'int **'
+C:\Users\arantxasierra\source\repos\PA6\PA6\Battleship.c(318,9): warning C4477: 'scanf' : format string '%d' requires an argument of type 'int *', but variadic argument 2 has type 'int **'
+C:\Users\arantxasierra\source\repos\PA6\PA6\Battleship.c(319,59): warning C4047: '==': 'int *' differs in levels of indirection from 'int'
+C:\Users\arantxasierra\source\repos\PA6\PA6\Battleship.c(319,71): warning C4047: '==': 'int *' differs in levels of indirection from 'int'
+C:\Users\arantxasierra\source\repos\PA6\PA6\Battleship.c(319,83): warning C4047: '==': 'int *' differs in levels of indirection from 'int'
+C:\Users\arantxasierra\source\repos\PA6\PA6\Battleship.c(319,95): warning C4047: '==': 'int *' differs in levels of indirection from 'int'
+C:\Users\arantxasierra\source\repos\PA6\PA6\Battleship.c(328,13): warning C4047: '==': 'int *' differs in levels of indirection from 'int'
+C:\Users\arantxasierra\source\repos\PA6\PA6\Battleship.c(328,25): warning C4047: '==': 'int *' differs in levels of indirection from 'int'
+C:\Users\arantxasierra\source\repos\PA6\PA6\Battleship.c(328,37): warning C4047: '==': 'int *' differs in levels of indirection from 'int'
+C:\Users\arantxasierra\source\repos\PA6\PA6\Battleship.c(328,49): warning C4047: '==': 'int *' differs in levels of indirection from 'int'
+C:\Users\arantxasierra\source\repos\PA6\PA6\Battleship.c(340,3): warning C4013: 'shipSunk' undefined; assuming extern returning int
+  PA6.vcxproj -> C:\Users\arantxasierra\source\repos\PA6\PA6\ARM64\Debug\PA6.exe

@@ -1,0 +1,8 @@
+﻿  Main.c
+  Yahtzee.c
+  Generating Code...
+D:\CS_121\PA's\PA7_Poker\Sierra_PA5\Sierra_PA5\Main.c(17,8): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\CS_121\PA's\PA7_Poker\Sierra_PA5\Sierra_PA5\Main.c(36,23): warning C4133: 'function': incompatible types - from 'int [4]' to 'char *'
+D:\CS_121\PA's\PA7_Poker\Sierra_PA5\Sierra_PA5\Main.c(49,23): warning C4133: 'function': incompatible types - from 'int [4]' to 'char *'
+D:\CS_121\PA's\PA7_Poker\Sierra_PA5\Sierra_PA5\Yahtzee.c(99,15): warning C4133: 'function': incompatible types - from 'char *' to 'int *'
+  Sierra_PA5.vcxproj -> D:\CS_121\PA's\PA7_Poker\Sierra_PA5\ARM64\Debug\Sierra_PA5.exe

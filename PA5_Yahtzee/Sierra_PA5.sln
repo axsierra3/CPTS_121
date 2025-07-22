@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sierra_PA5", "Sierra_PA5\Sierra_PA5.vcxproj", "{986E5F3A-0633-4A33-BAA0-7684D6047F41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{986E5F3A-0633-4A33-BAA0-7684D6047F41}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{986E5F3A-0633-4A33-BAA0-7684D6047F41}.Debug|ARM64.Build.0 = Debug|ARM64
+		{986E5F3A-0633-4A33-BAA0-7684D6047F41}.Debug|x64.ActiveCfg = Debug|x64
+		{986E5F3A-0633-4A33-BAA0-7684D6047F41}.Debug|x64.Build.0 = Debug|x64
+		{986E5F3A-0633-4A33-BAA0-7684D6047F41}.Debug|x86.ActiveCfg = Debug|Win32
+		{986E5F3A-0633-4A33-BAA0-7684D6047F41}.Debug|x86.Build.0 = Debug|Win32
+		{986E5F3A-0633-4A33-BAA0-7684D6047F41}.Release|ARM64.ActiveCfg = Release|ARM64
+		{986E5F3A-0633-4A33-BAA0-7684D6047F41}.Release|ARM64.Build.0 = Release|ARM64
+		{986E5F3A-0633-4A33-BAA0-7684D6047F41}.Release|x64.ActiveCfg = Release|x64
+		{986E5F3A-0633-4A33-BAA0-7684D6047F41}.Release|x64.Build.0 = Release|x64
+		{986E5F3A-0633-4A33-BAA0-7684D6047F41}.Release|x86.ActiveCfg = Release|Win32
+		{986E5F3A-0633-4A33-BAA0-7684D6047F41}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FEA0BA14-1143-4282-AC1F-741BA685EA19}
+	EndGlobalSection
+EndGlobal
