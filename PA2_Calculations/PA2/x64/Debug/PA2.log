@@ -1,0 +1,12 @@
+﻿  equations.c
+  Main.c
+  Generating Code...
+C:\Users\arantxasierra\source\repos\CS_121\PA2\PA2\equations.c(13,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\arantxasierra\source\repos\CS_121\PA2\PA2\equations.c(43,9): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\arantxasierra\source\repos\CS_121\PA2\PA2\Main.c(17,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\arantxasierra\source\repos\CS_121\PA2\PA2\Main.c(88,30): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+C:\Users\arantxasierra\source\repos\CS_121\PA2\PA2\Main.c(88,32): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+C:\Users\arantxasierra\source\repos\CS_121\PA2\PA2\Main.c(88,34): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+C:\Users\arantxasierra\source\repos\CS_121\PA2\PA2\Main.c(91,9): warning C4476: 'printf' : unknown type field character ')' in format specifier
+C:\Users\arantxasierra\source\repos\CS_121\PA2\PA2\Main.c(44,7): warning C4047: 'initializing': 'char' differs in levels of indirection from 'void *'
+  PA2.vcxproj -> C:\Users\arantxasierra\source\repos\CS_121\PA2\x64\Debug\PA2.exe
