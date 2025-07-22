@@ -1,0 +1,4 @@
+﻿  Main.c
+C:\Users\arantxasierra\source\repos\Sierra_PA7\Sierra_PA7\Main.c(59,5): warning C4013: 'replaceCard' undefined; assuming extern returning int
+C:\Users\arantxasierra\source\repos\Sierra_PA7\Sierra_PA7\Main.c(72,3): warning C4013: 'checkWinner' undefined; assuming extern returning int
+  Sierra_PA7.vcxproj -> C:\Users\arantxasierra\source\repos\Sierra_PA7\ARM64\Debug\Sierra_PA7.exe
